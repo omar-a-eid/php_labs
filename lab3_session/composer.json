@@ -1,0 +1,16 @@
+{
+  "autoload": {
+    "files": [
+      "config.php",
+      "functions.php"
+    ],
+    "classmap": [
+      "classes"
+    ]
+  },
+  "config": {
+    "allow-plugins": {
+      "php-http/discovery": true
+    }
+  }
+}
